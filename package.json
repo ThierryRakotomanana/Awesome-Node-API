@@ -1,0 +1,14 @@
+{
+  "name": "awesome-node-api",
+  "version": "1.0.0",
+  "description": "This is an awesome project for who wanna leran node in backend",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node ./dist/index.js",
+    "test": "jest",
+    "build" : "tsc",
+    "lint" : "eslint"
+  },
+  "author": "",
+  "license": "ISC"
+}
